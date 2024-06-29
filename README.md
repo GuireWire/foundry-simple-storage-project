@@ -19,6 +19,7 @@ Deployed to: 0x111C3E89Ce80e62EE88318C2804920D4c96f92bb
 Transaction hash: 0x699abc9d3a0b2d609141463949312697e4198e2f6edd52c935787a79816b2767
 
 forge script option
+
 contract SimpleStorage 0x4B5DF730c2e6b28E17013A1485E5d9BC41Efe021
 
 *[⭐️ Updraft | Foundry Simple Storage](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-foundry-simple-storage)*
