@@ -11,8 +11,11 @@ SimpleStorage Contract Address - 0x232aEcB6450340bfd25cFf8F332e0eD8B262916A
 zkSync Local Node:
 
 forge create option
+
 Deployer: 0x36615Cf349d7F6344891B1e7CA7C72883F5dc049
+
 Deployed to: 0x111C3E89Ce80e62EE88318C2804920D4c96f92bb
+
 Transaction hash: 0x699abc9d3a0b2d609141463949312697e4198e2f6edd52c935787a79816b2767
 
 forge script option
